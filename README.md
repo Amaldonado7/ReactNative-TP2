@@ -15,3 +15,6 @@ npm install
 # Run app
 expo start
 ```
+
+# Screenshot
+![IMG_1420](https://user-images.githubusercontent.com/36973958/171514652-f964d7af-2d54-49f2-9574-e3bee5064736.PNG)
